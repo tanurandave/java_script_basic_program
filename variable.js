@@ -1,0 +1,12 @@
+var x;
+console.log(x);
+var name="radhakrishna";
+var age=10;
+console.log(name);
+console.log(age);
+var a=[];
+var b=function(){};
+var c=10.89;
+console.log(a);
+console.log(b);
+console.log(c);
